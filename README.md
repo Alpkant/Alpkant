@@ -7,6 +7,6 @@
 ### Hi there 👋
 
 I am Alperen Kantarcı. I am a full-time researcher at [ITU SIMIT Lab.](https://simitlab.itu.edu.tr/) I am also MSc. student at [Istanbul Technical University](itu.edu.tr/)
-My research interests are computer vision, deep learning, face recognition, face super-resolution. Anything related to AI is attractive to me. In this profile I share my solutions for the courses, publication details and my side projects. You are always welcome to contribute. 
+My research interests are computer vision, deep learning, face recognition, face super-resolution. Anything related to AI is attractive to me. I am mostly using Python and PyTorch. In this profile I share my publication implementations, solutions for the course homeworks, and my side projects. You are always welcome to contribute. 
 
 
